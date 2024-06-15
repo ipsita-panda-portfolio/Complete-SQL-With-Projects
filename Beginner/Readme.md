@@ -98,3 +98,25 @@ The marketing team member asks you about the different prices that have been pai
    <img width="705" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/9bc57ed7-4f69-492e-9549-0d35f39dffe8">
 
 </p>
+
+> ### Filtering in SQL : Use of WHERE Clause
+> > In SQL we can narrow down the number of rows using WHERE clause.
+
+      SELECT * FROM payment WHERE customer_id = 100;
+      SELECT first_name,last_name FROM customer WHERE first_name IS NOT NULL;
+
+### Task Example - 5 :
+
+The inventory manager is asking how many rentals have not been returned yet i.e. return date is null.
+
+<p align ='center'>
+   <img width="404" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/fca68168-37b4-4cc4-9600-f3590a094084">
+
+</p>
+
+### Task Example - 6 :
+The Sales manager asks you for all the payment ids for which the amount is less than 2 dollars.
+
+<p align = 'center'>
+   <img width="548" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/a7c9ff37-c98b-410a-a744-70147ca29caa">
+</p>
