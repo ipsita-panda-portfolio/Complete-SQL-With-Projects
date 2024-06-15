@@ -1,5 +1,5 @@
 # SQL 
-
+__This repository contains all things related to SQL which has helped me in my career and also in cracking interviews__
 ##  Beginner:
   *	Basics of SQL
   *	SELECT
