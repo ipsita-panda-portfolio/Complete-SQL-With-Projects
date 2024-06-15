@@ -10,7 +10,8 @@ It is used to :
 > # What is Database ?
 Database is a collection of schemas which helps in organising the tables which in turn contains data.
 
-Database management systems allow users to interact with database through SQL.
+Database management systems allow users to interact with database through SQL.All DBMS have slightly different dialects.
+PostgreSQL is closest to Standard SQL.
 
 Different Database Management System examples :
 
