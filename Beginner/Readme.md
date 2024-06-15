@@ -70,3 +70,31 @@ There are two ways to go about this.
 <p align="center">
 <img width="451" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/f9618296-54ec-4ddc-9f70-66d175ae0f63">
 </p>
+
+### Task Example - 3 :
+
+The marketing manager has asked you to order the customer list by last name in 'Z' to 'A' order and in case of same last name order should be based on first name also from 'Z' to 'A'.
+
+<p align="center">
+<img width="400" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/73360787-2a26-43dd-bc54-af3c14ac7b3c">
+</p>
+
+> #### Removing Duplicates
+> > SELECT DISTINCT first_name,last_name FROM actor ORDER BY first_name;
+
+> > SELECT DISTINCT rating from film;
+
+### Task Example - 4 :
+
+The marketing team member asks you about the different prices that have been paid.To make it easier for them order the prices from high to low.
+
+<p align='center'>
+   <img width="486" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/2fba7780-32d6-4ee8-926c-92a46e76a419">
+</p>
+
+> Limiting the number of rows :
+> > Figuring out what are the last 10 rentals ?
+<p align ='center'>
+   <img width="705" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/9bc57ed7-4f69-492e-9549-0d35f39dffe8">
+
+</p>
