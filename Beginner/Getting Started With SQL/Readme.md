@@ -11,3 +11,12 @@ It is used to :
 Database is a collection of schemas which helps in organising the tables which in turn contains data.
 
 Database management systems allow users to interact with database through SQL.
+
+Different Database Management System examples :
+
+      * MySQL
+      * PostgreSQL
+      * MariaDM
+      * Microsoft SQL Server
+      * MongoDB
+      
