@@ -21,4 +21,5 @@ Different Database Management System examples :
       * Microsoft SQL Server
       * MongoDB
 
-> Database Example : Green cycle online movie rental company has a collection of tables and as a data analyst you need to analyse the data in these table and gain insights to help business make decision and grow business,
+> # Database Example
+> > Green cycle online movie rental company has a collection of tables and as a data analyst you need to analyse the data in these table and gain insights to help business make decision and grow business,
