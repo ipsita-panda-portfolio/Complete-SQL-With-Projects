@@ -53,3 +53,20 @@ The Marketing Manager asks you for a list of all customers with first name,last 
 <p align="center">
 <img width="417" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/415a1288-94a8-4602-8e6b-a00627b47984">
 </p>
+
+### Task Example - 2 :
+The marketing manager has asked you to fetch highest amount paid by each customer.
+
+There are two ways to go about this.
+1- Simple way would be to use order by on customer column and amount column and fetch the data from payment table.
+      
+      SELECT * FROM public.payment ORDER BY customer_id,amount DESC
+<p align="center">
+<img width="451" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/779a7095-4b31-4284-b3f4-7eb9eec681c0">
+</p>
+2- Use group by (advanced) to fetch maximum amount for each customer.
+
+      SELECT customer_id,MAX(amount) AS max_amount FROM payment GROUP BY customer_id ORDER BY customer_id
+<p align="center">
+<img width="451" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/f9618296-54ec-4ddc-9f70-66d175ae0f63">
+</p>
