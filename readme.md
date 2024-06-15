@@ -1,25 +1,25 @@
 # SQL 
-=============
-## > Beginner:
+
+##  Beginner:
   *	Basics of SQL
   *	SELECT
   *	WHERE and Filtering
   *	GROUP BY
-  - - - -
-## > Intermediate:
+
+##  Intermediate:
   *	Functions
   *	Conditional Expressions
   *	JOINS
-  - - - -
-## > Advanced:
+
+##  Advanced:
   *	Subqueries
   *	UNION
   *	Managing Tables
   *	Views
   *	Data Manipulation
   *	Course Project
-  - - - -
-## > Pro:
+ 
+##  Pro:
   *	Window Functions
   *	Grouping Sets
   *	Rollups
@@ -30,6 +30,6 @@
   *	Indexes
   *	Query Optimisation
   *	Course Project
-  - - - -
+
 
 
