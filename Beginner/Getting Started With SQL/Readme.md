@@ -7,3 +7,7 @@ It is used to :
     * Retrieve Data
     * Update Data
     * Delete Data
+> # What is Database ?
+Database is a collection of schemas which helps in organising the tables which in turn contains data.
+
+Database management systems allow users to interact with database through SQL.
