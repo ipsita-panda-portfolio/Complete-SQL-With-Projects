@@ -162,3 +162,16 @@ Your manager wants to get a better understanding of the films and he wants to kn
 <img width="573" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/cea2ab68-582a-485d-9422-7bbce0aeb534">
 </p>
 
+### Using Group By
+
+      SELECT customer_id,SUM(amount) from payment GROUP BY customer_id
+
+### Task Example - 10 :
+
+Your manager wants to know which of the two employees is responsible for more payments?
+Which of the two is responsible for a higher overall payment amount?
+How do these amounts change if we dont consider amounts.
+
+<p align = 'center'>
+<img width="450" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/e8b3c4ca-03ea-408b-adef-bce962993c6e">
+</p>
