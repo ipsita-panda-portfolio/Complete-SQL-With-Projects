@@ -120,3 +120,20 @@ The Sales manager asks you for all the payment ids for which the amount is less 
 <p align = 'center'>
    <img width="548" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/a7c9ff37-c98b-410a-a744-70147ca29caa">
 </p>
+
+### Task Example - 7 :
+
+How many movies are there that have 'Documentary' in the description?
+
+<p align = 'center'>
+<img width="563" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/fdcc472a-7c0d-409b-ad34-441507c823e6">
+</p>
+
+### Task Example - 7 :
+
+How many customers are there with first name that is 3 charecters long and last name ending with 'X' or 'Y'?
+
+<p align = 'center'>
+   <img width="602" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/12b8edd1-dc46-4058-84d7-efabb34a9792">
+
+</p>
