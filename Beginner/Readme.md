@@ -175,3 +175,26 @@ How do these amounts change if we dont consider amounts.
 <p align = 'center'>
 <img width="450" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/e8b3c4ca-03ea-408b-adef-bce962993c6e">
 </p>
+
+### Group By Using Multiple Columns
+
+<p align = 'center'><img width="341" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/3212b2d5-398f-43d7-851c-6fcc043361f0">
+</p>
+
+### Task Example - 11 :
+Which employee has the highest sales amount in a single day?Which employee has the most sales in a single day(not counting the payments with amount = 0)?
+
+<p align = 'center'><img width="398" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/28d7246b-4f11-449b-9657-20b690412e91"></p>
+
+<p align = 'center'><img width="649" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/e1e664bc-35e0-4476-ae33-1b233b7dc310">
+
+</p>
+
+> ### Having Clause
+> > Filter groupings by aggregations ex: Having count(*) > 400
+
+### Task Example - 12 :
+In April 2020,28,29 and 30 we had high revenues so we want to focus on these days.
+Find out what is average payment amount grouped by customer and day - consider only days/customer with more than one payment(per customer per day)
+<p align = 'center'><img width="641" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/2654369d-cfc8-4ec0-8904-2617287b7e05">
+</p>
