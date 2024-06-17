@@ -137,3 +137,21 @@ How many customers are there with first name that is 3 charecters long and last 
    <img width="602" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/12b8edd1-dc46-4058-84d7-efabb34a9792">
 
 </p>
+
+> ### Group By And Having
+> > Aggregating data based on certain criteria.
+
+      1- SUM()
+      2- AVG()
+      3- MAX()
+      4- MIN()
+      5- COUNT()
+
+We cannot combine non - aggregated column with aggregated column in select statement.When using non-aggregated column along with aggregated column in select statement the non aggregated column should be included in groupby.
+
+      SELECT SUM(amount), ROUND(AVG(amount),2) FROM payment;
+
+      <p align = 'center'>
+      <img width="464" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/1c1a5bcf-86c8-45da-8c7d-9debb57dcdcb">
+      </p>
+
