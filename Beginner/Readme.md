@@ -129,7 +129,7 @@ How many movies are there that have 'Documentary' in the description?
 <img width="563" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/fdcc472a-7c0d-409b-ad34-441507c823e6">
 </p>
 
-### Task Example - 7 :
+### Task Example - 8 :
 
 How many customers are there with first name that is 3 charecters long and last name ending with 'X' or 'Y'?
 
@@ -151,7 +151,14 @@ We cannot combine non - aggregated column with aggregated column in select state
 
       SELECT SUM(amount), ROUND(AVG(amount),2) FROM payment;
 
-      <p align = 'center'>
+<p align = 'center'>
       <img width="464" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/1c1a5bcf-86c8-45da-8c7d-9debb57dcdcb">
-      </p>
+</p>
+
+### Task Example - 9 :
+Your manager wants to get a better understanding of the films and he wants to know the minimum,maximum,average,sum of replacement cost of the films.
+
+<p align = 'center'>
+<img width="573" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/cea2ab68-582a-485d-9422-7bbce0aeb534">
+</p>
 
