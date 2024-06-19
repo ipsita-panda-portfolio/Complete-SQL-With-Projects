@@ -79,3 +79,6 @@
 
 <p align = 'center'><img width="338" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/d46f7487-f3b4-4fda-8a01-c5e4533d4544"></p>
 
+<p align = 'center'><img width="553" alt="image" src="https://github.com/ipsita-panda-portfolio/Complete-SQL-With-Projects/assets/172842419/4d6ca545-b5b9-4687-903e-5b275308e68f">
+</p>
+
